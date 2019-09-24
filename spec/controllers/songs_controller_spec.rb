@@ -9,7 +9,7 @@ RSpec.describe SongsController, type: :controller do
       released: true,
       genre: "Post-Rock"
     }
-  end
+  end 
 
   let(:invalid_attributes) do
     {
